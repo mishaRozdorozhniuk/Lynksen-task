@@ -7,7 +7,7 @@ interface CardProps {
     description: string;
     image: string;
     breed: string,
-    onClick: (breed: String, id: String) => void,
+    onClick: (breed: string, id: string) => void,
     id: string
 }
 

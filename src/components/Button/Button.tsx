@@ -2,8 +2,8 @@ import React, {FC} from 'react';
 import './Button.scss'
 
 interface ButtonProps {
-    text: String;
-    className?: String;
+    text: string;
+    className?: string;
     onClick?: () => void;
 }
 
