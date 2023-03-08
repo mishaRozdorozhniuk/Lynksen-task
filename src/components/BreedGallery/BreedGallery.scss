@@ -8,9 +8,10 @@
   background-color: #fff;
   padding: 15px;
   height: 100%;
-  min-height: 480px;
+  min-height: 505px;
   width: 100%;
   max-width: 346px;
+  margin-bottom: 10px;
   &__name {
     color: #373D59;
     font-weight: 700;
@@ -26,7 +27,7 @@
   &__description {
     font-weight: 400;
     font-size: 15px;
-    line-height: 22px;
+    line-height: 1.5;
     text-align: center;
     color: #373D59;
     width: auto;
